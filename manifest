@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: The iOS module to use Multipeer Connectivity Framework
+author: Keigo AOKI
+license: MIT License
+copyright: Copyright (c) 2014 by Hoyosta, Inc.
+
+
+# these should not be edited
+name: TiMultipeer
+moduleid: com.hoyosta.timultipeer
+guid: fef5bd17-52bb-4d52-9dd6-cc05c1949596
+platform: iphone
+minsdk: 3.2.3.GA
